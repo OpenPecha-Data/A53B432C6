@@ -1,0 +1,58 @@
+segment_sources:
+  I52DC5F41:
+    type: origin_type
+    relation: translation
+    language: sa
+  I6472A6E9:
+    type: origin_type
+    relation: translation
+    language: zh
+  I41F64287:
+    type: origin_type
+    relation: translation
+    language: bo
+  IF666A68B:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  0f014d26e1304df1a5e38a1405fcfa59:
+    I52DC5F41: 823a0da43cf943afb91580257dd02b13
+    I6472A6E9: 1d6069ee31534cfcae2afb7ba41e1d51
+    I41F64287: a1f064305e1b423b9d0423b48bfae890
+    IF666A68B: e4bffbff06754f8783a9574baeabe954
+  ed55cae8bc3a43e282a513e8de74d266:
+    I52DC5F41: 1233b013c3b44bcab9b41ed9729f1ead
+    I6472A6E9: fcdfe7f19d8e47989723b8985acb01f7
+    I41F64287: 58a44609b48a4b17b025da44ed9c4ba1
+    IF666A68B: 71f19b8fec544fc182151aa516a658e6
+  2d43e015357d4191bf92ed673c97344a:
+    I52DC5F41: 3ab7b3d80539422ba33f680774dc3605
+    I6472A6E9: 91794ec11c4840fe90c6eab941fcdd58
+    I41F64287: ec02b9395f87431b8dff367046e818ef
+    IF666A68B: f12c607f5afd4114ba2363b02dcd65b8
+  2b339ac3c3444cf1a4063cb3840ba0d1:
+    I52DC5F41: 2df2441a3aff41de82214114d1af62ae
+    I6472A6E9: f824e0f560d14cc1b0f3c76f1880fb4d
+    I41F64287: dfbfaffa98cc48b987b09109351aaf77
+    IF666A68B: 4696da91e60940fbba32379719a803c4
+  6b95a2be71ef4acdb461570b9786f1e6:
+    I52DC5F41: 37b72b3223c5432bbf0b43028d5e4b38
+    I6472A6E9: 3a4062309ebb4745a89de881d19ce5f9
+    I41F64287: f1afdf38146c4c59a023a028cdf9347c
+    IF666A68B: 0a6685874702475cbc9bead023c6e384
+  043d7e2a634a4e8ea88953c97cccffa4:
+    I52DC5F41: aad4a3627c104af192d3bd5f4284f10d
+    I6472A6E9: bfbbabc49c414d1f930ffddc89fe6519
+    I41F64287: 6d33f087033d49999f3e8c9e9b11e507
+    IF666A68B: 697c1b97048040e69b3ed6d774a4f10b
+  a73e267ac3dc4cb4ace9952eef0680d0:
+    I52DC5F41: cb006d8eb43a4162bd5c3cd5d46919fe
+    I6472A6E9: 56d1577409a54f6c961f9c9e3b2449d8
+    I41F64287: 63890218ccb749f8afa1767796bf8af3
+    IF666A68B: 2bbb498f942c4bf9a318046af298cfb4
+  9d1130f8336c4b8e873a5e9b3bd20af2:
+    I52DC5F41: 820cabb1f05a4aa0943412d645214ae4
+    I6472A6E9: b9c13f46d6fe49f6a67042d4cbb024bc
+    I41F64287: None
+    IF666A68B: 7eed49524b8c471880023b87dc2ff893
